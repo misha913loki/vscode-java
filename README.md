@@ -1,4 +1,4 @@
-Language support for Java &trade; for Visual Studio Code！1
+Language support for Java &trade; for Visual Studio Code！122
 =====================
 
 [![Join the chat at https://gitter.im/redhat-developer/vscode-java](https://badges.gitter.im/redhat-developer/vscode-java.svg)](https://gitter.im/redhat-developer/vscode-java?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
